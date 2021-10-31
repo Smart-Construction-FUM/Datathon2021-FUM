@@ -1,6 +1,6 @@
 # Datathon2021-FUM
 Deliverables for VIMS Datathon 2021
-Here are the final deliverables for Datathon 2021 prepared and submitted by Datapex Team (Ferdowsi University of Mashhad, Iran):
+Here are the final deliverables for Datathon 2021 prepared and submitted by Datapex Team (Smart Construction) Ferdowsi University of Mashhad, Iran:
 
 A. For code developed in Google Colab please see "Datapex_final.ipynb"
 
